@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
-</copyright><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+</copyright>
+    <lastBuildDate>Wed, 01 Dec 2021 17:40:19 +0800</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News</title>
+      <link>/series/news/</link>
+      <pubDate>Wed, 01 Dec 2021 17:40:19 +0800</pubDate>
+      
+      <guid>/series/news/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
